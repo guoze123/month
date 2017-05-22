@@ -1,5 +1,6 @@
 关于我群
 =====
+[![Build Status](https://travis-ci.org/jsfront/month.svg?branch=master)](https://travis-ci.org/jsfront/month)
 
 本群倡导一种开放，平等，自由的交流风格。但不强推某个观点，我们只是技术人，只是把技术做为谋生的一种手段，生活除了技术之外还有很多。职业除了技术之外还有很多东西需要培养或学习。
 
@@ -11,4 +12,8 @@
 [JS高级前端开发群加群说明](http://www.cnblogs.com/jikey/p/4426105.html)
 
 
-记录一些群内一些分享，致力打造中国质量最高的前端群。你不在是一个阅读者，更是一个项目参与者内容创造者，欢迎fork之后pull。
+记录一些群内一些分享，致力打造中国质量最高的前端群。你不再只是一个阅读者，更是一个项目参与者内容创造者，欢迎 fork 之后提交 pr。
+
+# 其他说明
+- [在线地址（官网）](http://jsfront.org/month/) | [在线地址（看云）](http://www.kancloud.cn/jsfront/month/82796)
+- [如何贡献](https://github.com/jsfront/month/blob/master/howToCommit.md)
